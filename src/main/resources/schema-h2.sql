@@ -1,0 +1,1 @@
+alter table main_entity add column rowid bigint not null auto_increment unique;
